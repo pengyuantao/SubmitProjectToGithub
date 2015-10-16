@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 
 /**
- * 提交到github上的示例
+ * 提交到github上的示例，过来看看吧
  */
 public class MainActivity extends ActionBarActivity {
 
